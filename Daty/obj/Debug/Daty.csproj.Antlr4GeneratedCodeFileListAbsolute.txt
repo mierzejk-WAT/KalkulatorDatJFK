@@ -1,0 +1,6 @@
+C:\Users\ppmic\Desktop\Kalkulator dat\Daty\obj\Debug\DatyLexer.cs
+C:\Users\ppmic\Desktop\Kalkulator dat\Daty\obj\Debug\DatyParser.cs
+C:\Users\ppmic\Desktop\Kalkulator dat\Daty\obj\Debug\DatyListener.cs
+C:\Users\ppmic\Desktop\Kalkulator dat\Daty\obj\Debug\DatyBaseListener.cs
+C:\Users\ppmic\Desktop\Kalkulator dat\Daty\obj\Debug\DatyVisitor.cs
+C:\Users\ppmic\Desktop\Kalkulator dat\Daty\obj\Debug\DatyBaseVisitor.cs
